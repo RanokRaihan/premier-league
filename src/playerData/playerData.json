@@ -1,0 +1,137 @@
+[
+    {  
+        "id":1,
+        "name":"Shakib Al Hassan",
+        "country":"Bangladesh",
+        "playingRole":"Batting Allrounder",
+        "age":33,
+        "image":"https://i.ibb.co/bLzHtb3/shakib-al-hasan.jpg",
+        "price":1.2
+    },
+    {  
+        "id":2,
+        "name":"Mustafizur Rahman",
+        "country":"Bangladesh",
+        "playingRole":"Bowler",
+        "age":25,
+        "image":"https://i.ibb.co/BBrcyZm/mustafizur-rahman.jpg",
+        "price":1.5
+    },
+    {  
+        "id":3,
+        "name":"Virat Kohli",
+        "country":"India",
+        "playingRole":"Top-order batsman",
+        "age":32,
+        "image":"https://i.ibb.co/2v7PDPF/virat-kohli.jpg",
+        "price":2.58
+    },
+    {  
+        "id":4,
+        "name":"Mashrafe Bin Mortazai",
+        "country":"Bangladesh",
+        "playingRole":"Bowler",
+        "age":37,
+        "image":"https://i.ibb.co/9s8phPg/Bangladesh-s-Mashrafe-Mortaza-appeals-unsuccessfully-during-the-Pool-A-2015-Cricket-World-Cup-match.jpg",
+        "price":1.26
+    },
+    {  
+        "id":5,
+        "name":"Chris Gayle",
+        "country":"West Indies",
+        "playingRole":"Batsman",
+        "age":32,
+        "image":"https://i.ibb.co/7jHTLXB/PORT-OF-SPAIN-TRINIDAD-AND-TOBAGO-AUGUST-14-Chris-Gayle-of-the-West-Indies-brings-up-his-50-during-t.jpg",
+        "price":1.58
+    },
+    {  
+        "id":6,
+        "name":"Gautam Gambhir",
+        "country":"India",
+        "playingRole":"Batsman",
+        "age":39,
+        "image":"https://i.ibb.co/y8JLVry/Indian-cricketer-Gautam-Gambhir-raises-his-bat-and-helmet-in-celebration-after-scoring-a-century-100.jpg",
+        "price":1.6
+    },
+    {  
+        "id":7,
+        "name":"Mushfiqur Rahim",
+        "country":"Bangladesh",
+        "playingRole":"WK-Batsman",
+        "age":33,
+        "image":"https://i.ibb.co/2YT62Zz/mushfiqur-rahim.jpg",
+        "price":1.63
+    },
+    {  
+        "id":8,
+        "name":"Mohammad Amir",
+        "country":"Pakistan",
+        "playingRole":"Bowler",
+        "age":28,
+        "image":"https://i.ibb.co/q5PKtvk/Mohammad-Amir.jpg",
+        "price":1.85
+    },
+    {  
+        "id":9,
+        "name":"Tamim Iqbal",
+        "country":"Bangladesh",
+        "playingRole":"Batsman",
+        "age":31,
+        "image":"https://i.ibb.co/vDYCM1C/tamim-iqbal.jpg",
+        "price":1.16
+    },
+    {  
+        "id":10,
+        "name":"Shahid Afridi",
+        "country":"Pakistan",
+        "playingRole":"Bowling Allrounder",
+        "age":41,
+        "image":"https://i.ibb.co/D8Nvfmw/shahid-afridi.jpg",
+        "price":1.09
+    },
+    {  
+        "id":11,
+        "name":"Ben Stokes",
+        "country":"Enland",
+        "playingRole":"Batting Allrounder",
+        "age":29,
+        "image":"https://i.ibb.co/pyb3xKz/ben-stokes.jpg",
+        "price":1.67
+    },
+    {  
+        "id":12,
+        "name":"Rohit Sharma",
+        "country":"India",
+        "playingRole":"Batsman",
+        "age":33,
+        "image":"https://i.ibb.co/D8GpbL3/rohit-sharma.jpg",
+        "price":2.34
+    },
+    {  
+        "id":13,
+        "name":"Taskin Ahmed",
+        "country":"Bangladesh",
+        "playingRole":"Bowler",
+        "age":25,
+        "image":"https://i.ibb.co/VWBjmc2/Bangladesh-s-Taskin-Ahmed-celebrates-the-dismissal-of-Afghanistan-s-Rahmat-Shah-during-the-third-one.jpg",
+        "price":1.14
+    },
+    {  
+        "id":14,
+        "name":"Yuvraj Singh",
+        "country":"India",
+        "playingRole":"Batting Allrounder",
+        "age":39,
+        "image":"https://i.ibb.co/h1HbfLV/Yuvraj-Singh.jpg",
+        "price":1.38
+    },
+    {  
+        "id":15,
+        "name":"Chris Morris",
+        "country":"South Africa",
+        "playingRole":"Bowling Allrounder",
+        "age":33,
+        "image":"https://i.ibb.co/QfY7gqs/Chris-Morris.jpg",
+        "price":1.16
+    }
+]
